@@ -1,1 +1,2 @@
+Conflict change
 Some text for header
