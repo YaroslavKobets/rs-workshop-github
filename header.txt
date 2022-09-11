@@ -1,2 +1,2 @@
-Conflict change
 Some text for header
+Change from <main>
